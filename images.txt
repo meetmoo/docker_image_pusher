@@ -1,4 +1,1 @@
-prom/blackbox-exporter
-grafana/grafana:6.5.3
-prom/node-exporter
-prom/prometheus:v2.2.1
+prom/prometheus
